@@ -18,8 +18,8 @@ It covers **openEuler Linux**, **openGauss Database**, and **Huawei Cloud techno
 ---
 
 ## 🌐 Live Demo
-(Optional if deployed)
-https://your-live-link-here
+(not yet if deployed)
+https://the-live-link-here
 
 ---
 
