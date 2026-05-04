@@ -17,6 +17,10 @@ It covers **openEuler Linux**, **openGauss Database**, and **Huawei Cloud techno
 
 ---
 
+## 🌐 Github repo link
+https://github.com/coolieobowley95/Huawei.git
+
+
 ## 🌐 Live Demo
 (not yet if deployed)
 https://the-live-link-here
@@ -71,10 +75,11 @@ https://the-live-link-here
 ## 🚀 How to Run Locally
 
 ```bash
-git clone https://github.com/coolieobowley95/huawei-certification-guide.git
+git clone https://github.com/coolieobowley95/Huawei.git
 cd huawei-certification-guide
 open index.html
 
+https://github.com/coolieobowley95/Huawei.git
 
 ## 🚀 huawei-certification-guide
 
